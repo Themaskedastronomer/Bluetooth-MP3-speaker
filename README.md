@@ -1,7 +1,7 @@
 # Bluetooth-MP3-speaker
 This is a MP3/bluetooth speaker which has been built around the esp32 with a 3 section ui in a cardboard enclosure.I built it as a hobby project and as of now it has went through 3 iterations each improving over the previous one
 ## Hardware
-ESP32 WROOM-32, 2.8 inch spi display (driver is st7789), SD card reader module, salvaged hp speaker (from S6500 impendence is 4 ohm and 3W), PAM8406 and UDA1334A (this combo was for v0.1 and v0.2 later switched to MAX98357A).
+ESP32 WROOM-32, 2.8 inch spi display (driver is st7789), SD card reader module, a 10000mAh powerbank, salvaged hp speaker (from S6500 impendence is 4 ohm and 3W), PAM8406 and UDA1334A (this combo was for v0.1 and v0.2 later switched to MAX98357A).
 ## Pinouts
 for v0.1 and v0.2 
 

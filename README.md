@@ -34,6 +34,7 @@ same as before but
  MAX98357A  DIN  22 
  MAX98357A  SD_MODE  16 
 ## Libraries used
+esp core ver 2.0.17
 Adafruit ST7735 and ST7789
 Adafruit GFX
 ESP32-audioI2S (by schreibfaul1)
